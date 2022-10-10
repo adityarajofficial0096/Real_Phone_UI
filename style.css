@@ -71,3 +71,23 @@ nav{
 .feature{
     position: absolute;
 }
+
+.one{
+    top: 450px;
+    right: 50px;
+}
+
+.two{
+    top: 150px;
+    left: 350px;
+}
+
+.three{
+    bottom: 450px;
+    left: 50px;
+}
+
+.four{
+    bottom: 150px;
+    right: 350px;
+}
