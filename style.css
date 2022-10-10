@@ -63,3 +63,11 @@ nav{
     border-radius: 50%;
     background: #ccc;
 }
+
+.feature img{
+    width: 70px;
+}
+
+.feature{
+    position: absolute;
+}
