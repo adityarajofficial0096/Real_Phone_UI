@@ -70,6 +70,8 @@ nav{
 
 .feature{
     position: absolute;
+    display: flex;
+    color: #fff;
 }
 
 .one{
